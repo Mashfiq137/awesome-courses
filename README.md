@@ -1,8 +1,6 @@
 Awesome Courses
 ===============
-
-Introduction
-------------
+intro
 
 There is a lot of ~~hidden~~ treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.  
 
